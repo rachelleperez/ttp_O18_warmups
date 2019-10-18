@@ -34,7 +34,7 @@
 
 *** NOTES***
 
--- Goal - most customers to store. Let's make a promo! 
+-- Goal - more customers to store. Let's make a promo! 
 -- Assignment - generate new prices based on constraints
  --   If movie PG-13 and rent price <= $1 THEN new price 0.10. 
  --   if movie PG-13 and rent price is > 1 AND <= 2 THEN new price 1
